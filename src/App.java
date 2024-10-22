@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        String tekijä = "Niiko";
+        String tekijä = "Sami";
         double luku1 = 10;
         double luku2 = 2;
         double tulo = luku1 * luku2;
